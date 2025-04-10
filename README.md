@@ -25,6 +25,6 @@ Aprender e praticar:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/hebertedu-dev/muda-cor.git
+   git clone https://github.com/HebertEdu/muda-cor.git
    cd muda-cor
 
